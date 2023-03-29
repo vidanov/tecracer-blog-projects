@@ -2,11 +2,12 @@
 
 ## Why You Should Avoid Using random_password and How to Implement a Secure Alternative
 
-This is the repository for the official tecRacer blog post [AWS Secrets Management with Terraform](). With the code here you can create or use the secrets secure without saving them into the Terraform state.
+This is the repository for the official tecRacer blog post [Enhancing Security in Terraform with AWS Secrets Manager](). With the code here you can create or use the secrets secure without saving them into the Terraform state.
 
 The repository contains two folders:
 
-- creating-secret- using-secret
+- creating-secret
+- using-secret
 
 In the first one you will find the code to create an AWS secret, the second one contains the code to retrieve.
 
